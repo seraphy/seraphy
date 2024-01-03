@@ -1,0 +1,149 @@
+#tabsProducts { 
+    position: relative; 
+    padding-left: 13.5em; 
+} 
+#tabsProducts .ui-tabs-nav { 
+    position: absolute; 
+    left: 0.25em; 
+    top: 0.25em; 
+    bottom: 0.25em; 
+    width: 13em; 
+    padding: 0.2em 0 0.2em 0.2em; 
+} 
+#tabsProducts .ui-tabs-nav li { 
+    right: 1px; 
+    width: 100%; 
+    border-right: none; 
+    border-bottom-width: 1px !important; 
+    -moz-border-radius: 4px 0px 0px 4px; 
+    -webkit-border-radius: 4px 0px 0px 4px; 
+    border-radius: 4px 0px 0px 4px; 
+    overflow: hidden; 
+} 
+#tabsProducts .ui-tabs-nav li.ui-tabs-selected, 
+#tabsProducts .ui-tabs-nav li.ui-state-active { 
+    border-right: 1px solid transparent; 
+} 
+#tabsProducts .ui-tabs-nav li a { 
+    float: right; 
+    width: 100%; 
+    text-align: right; 
+} 
+
+  .warning {
+    color: red;
+    font-weight: bold;
+  }
+  .smalltip {
+    color: gray;
+    font-size: 80%;
+  }
+
+  .ui-tooltip, .arrow:after {
+    background: black;
+    border: 2px solid white;
+  }
+  .ui-tooltip {
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    font: bold 14px "Helvetica Neue", Sans-Serif;
+    text-transform: uppercase;
+    box-shadow: 0 0 7px black;
+  }
+  .arrow {
+    width: 70px;
+    height: 16px;
+    overflow: hidden;
+    position: absolute;
+    left: 50%;
+    margin-left: -35px;
+    bottom: -16px;
+  }
+  .arrow.top {
+    top: -16px;
+    bottom: auto;
+  }
+  .arrow.left {
+    left: 20%;
+  }
+  .arrow:after {
+    content: "";
+    position: absolute;
+    left: 20px;
+    top: -20px;
+    width: 25px;
+    height: 25px;
+    box-shadow: 6px 5px 9px -9px black;
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    tranform: rotate(45deg);
+  }
+  .arrow.top:after {
+    bottom: -20px;
+    top: auto;
+  }
+
+  h3 {
+    margin: 0;
+    color: #ee6600;
+  }
+  h1 {
+    font-size: 200%;
+    font-weight: bold;
+    color: #ee6600;
+    margin-left: 2em;
+  }
+
+  div#lastmodifiedOuter {
+    position: relative;
+    padding-right: 1em;
+    text-align: right;
+  }
+
+  div#lastmodifiedInner {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: right;
+    color: green;
+  }
+  
+  span#lastmodified {
+     padding-right: 1em;
+  }
+
+  div#product {
+    margin-bottom: 1em;
+  }
+
+  div#mailformbox {
+    margin: 1em;
+    padding: 1em;
+    border: 3px dashed gray;
+  }
+
+  div#mailForm .mailform-tr {
+    margin-bottom: 0.5em;
+  }
+
+  div#mailForm .mailform-tr .mailform-th {
+    width: 50px;
+    text-align: right;
+    font-weight: bold;
+    padding-right: 5px;
+    float: left;
+  }
+
+  div#mailForm .mailform-tr .mailform-td {
+    margin-left: 60px;
+  }
+
+  div#w3c-bunners {
+    margin-top: 1em;
+    float: right;
+  }
+  
