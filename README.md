@@ -23,6 +23,10 @@ seraphywareはseraphyが(主に)自分のために作ったソフトウェアで
 
 教訓としていえば、SourceForgeやOSDNのようなサイトであっても、いつ使えなくなるかわからないから、複数のバックアップが必要だった、ということでしょうか。
 
+## Vector作者ページ閉鎖について
+
+1999/9よりVectorにフリーウェア公開させていただいたときからVectorの作者ページを利用させていただいていたのですが、こちらも2014/12/20でサービス終了されるということで、こちらのアドレスに転送しています。
+
 
 <!--
 **seraphy/seraphy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
